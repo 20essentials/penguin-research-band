@@ -1,0 +1,23 @@
+export const nameBand = 'PENGUIN RESEARCH';
+export const nameSongs = [
+	"WILD BLUE", /*1*/
+	"HAISHA FUKKATSUSEN JIYUUGATA", /*2*/
+	"USOMAMIRENO MACHIDE", /*3*/
+	"SUPER STAR", /*4*/
+	"ALTERNATIVE", /*5*/
+	"KETTOU", /*6*/
+	"GYAKUSHUU", /*7*/
+	"USOMAMIRENOMACHIDE", /*8*/
+	"RAIMEI", /*9*/
+	"SEKAISAIGONOHINI", /*10*/
+	"KINJITSUKOUKAI", /*11*/
+	"BAKEMONO DIVER", /*12*/
+	"SENZAIICHIGUU", /*13*/
+	"DOBUNEZUMI", /*14*/
+	"BLUE LIGHTHOUSE", /*15*/
+	"HOUIJISHIN", /*16*/
+	"HEARTBEAT", /*17*/
+	"SUPERCHARGER", /*18*/
+	"A WILL", /*19*/
+	"RAIMEI", /*20*/
+]
